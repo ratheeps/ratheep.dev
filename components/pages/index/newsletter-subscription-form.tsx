@@ -30,7 +30,7 @@ const NewsletterSubscriptionForm: FC = () => {
           </Heading>
         </Box>
         <form
-          action="https://www.getrevue.co/profile/ghoshnirmalya/add_subscriber"
+          action="https://www.getrevue.co/profile/ratheepan-jayakkumar/add_subscriber"
           method="post"
           id="revue-form"
           name="revue-form"

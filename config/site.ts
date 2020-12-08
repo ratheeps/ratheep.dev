@@ -1,15 +1,15 @@
 export default {
   details: {
-    title: "Nirmalya Ghosh",
-    tagLine: "Designer and Developer",
-    description: "Personal portfolio of Nirmalya Ghosh",
-    url: "https://www.nirmalyaghosh.com",
+    title: "Ratheepan Jayakkumar",
+    tagLine: "Senior Software Engineer",
+    description: "Personal portfolio of Ratheepan Jayakkumar",
+    url: "https://www.ratheep.dev",
   },
   assets: {
     avatar: "/images/common/avatar.png",
     favicon: "/images/common/favicon.png",
   },
   socialLinks: {
-    twitter: "@nirmalyaghosh23",
+    twitter: "@ratheepan1993",
   },
 };

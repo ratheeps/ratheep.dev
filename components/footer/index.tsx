@@ -36,14 +36,10 @@ const SocialLinks: FC = () => {
                 </_Link>
               </Link>
             </Box>
-            <Box>
-              <_Link href="https://github.com/ghoshnirmalya/nirmalyaghosh.com">
-                Source code on Github
-              </_Link>
-            </Box>
+            <Box></Box>
             <Box>
               <Text>
-                Copyright &copy; {new Date().getFullYear()} Nirmalya Ghosh
+                Copyright &copy; {new Date().getFullYear()} Ratheepan Jayakkumar
               </Text>
             </Box>
           </Stack>

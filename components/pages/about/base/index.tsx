@@ -24,7 +24,7 @@ const Page: FC = () => {
           <Image
             objectFit="cover"
             src="/images/common/avatar.png"
-            alt="Nirmalya Ghosh"
+            alt="Ratheepan Jayakkumar"
             size={20}
             bg={cardColor[colorMode]}
             color={cardBgColor[colorMode]}
@@ -35,7 +35,7 @@ const Page: FC = () => {
         <Box>
           <Stack spacing={2}>
             <Heading as="h1" size="xl">
-              Nirmalya Ghosh
+              Ratheepan Jayakkumar
             </Heading>
             <Text>A little bit about me</Text>
           </Stack>
@@ -89,7 +89,7 @@ const Page: FC = () => {
             <Link
               py={2}
               px={4}
-              href="https://github.com/ghoshnirmalya"
+              href="https://github.com/ratheeps"
               rounded="md"
               bg="#333"
               color="#fff"
@@ -103,7 +103,7 @@ const Page: FC = () => {
             <Link
               py={2}
               px={4}
-              href="https://www.linkedin.com/in/ghoshnirmalya/"
+              href="https://www.linkedin.com/in/ratheepan-jeyakkumar-746815b0/"
               rounded="md"
               bg="#0e76a8"
               color="#fff"

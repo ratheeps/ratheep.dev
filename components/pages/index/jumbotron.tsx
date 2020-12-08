@@ -23,12 +23,13 @@ const Jumbotron: FC = () => {
           fontSize={["3rem", "4rem", "5rem", "6rem"]}
           fontFamily="body"
         >
-          Nirmalya Ghosh
+          Ratheepan Jayakkumar
         </Heading>
       </Box>
       <Box>
         <Text>
-          <Box as="b">Frontend Developer</Box> and <Box as="b">Designer</Box>
+          <Box as="b">Senior Software Engineer</Box> and{" "}
+          <Box as="b">Entrepreneur</Box>
         </Text>
       </Box>
     </Stack>

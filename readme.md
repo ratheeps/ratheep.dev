@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/6391763/91746343-12db9600-ebda-11ea-852f-c53409d470ca.png" alt="Logo"/>
 </p>
 
@@ -49,4 +49,4 @@ The above command will start the frontend application on [http://localhost:3000/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. -->
